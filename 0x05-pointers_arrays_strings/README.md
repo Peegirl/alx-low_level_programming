@@ -1,1 +1,1 @@
-pointerarrays
+Introduction to Pointers, arrays and strings
